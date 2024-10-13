@@ -1,0 +1,12 @@
+10/3/2024
+- Finally finished the abstract class to smaller class functionality where the houses could individually print themselves,
+however as soon as finishing this I realised that I could use text to draw the shapes instead of spending hours doing trail and error to make the curves look proper
+
+11/03/2024
+- finished drawing the cards using the text symbol instead of the paths,utilised a contentbox class to act as the wrapper class for anything that will be drawn. 
+
+16/03/2024
+Finished text drawing on a curve, on the inside and outside of a cirlce and that text centres itself
+
+9/04/2024
+errors launching the code, now have to launch through the terminal??
